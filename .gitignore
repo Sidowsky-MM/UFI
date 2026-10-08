@@ -1,0 +1,34 @@
+# Altium Designer - kopie zapasowe i historia
+History/
+__Previews/
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
+
+# Katalogi wyjściowe i raporty generowane przez kompilator
+Project Logs for */
+Project Outputs for */
+Outputs/
+Output/
+
+# Pliki tymczasowe, blokady i pliki cache
+*.Annotation
+*.~*
+*.tmp
+*.bak
+*.drc
+*.Dat
+*.log
+
+# Dane symulacji (Altium / Mixed Sim)
+*.nsx
+*.sdf
+
+# Pliki środowiskowe i specyficzne dla danego stanowiska pracy
+*.Workspace
+*.PrjPcb.Virtual
+
+# Pliki tymczasowe systemów operacyjnych
+Thumbs.db
+Desktop.ini
+.DS_Store
