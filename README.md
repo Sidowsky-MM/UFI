@@ -6,10 +6,10 @@ The UFI (UV Functional Identification System) is an engineered, lightweight opto
 
 ## Key Features
 
-- Optoelectronic core: UV emission architecture designed for target functional inspection and identification.
-- Compact form factor: Lightweight, portable construction optimized for hand-held field operation.
-- Custom enclosure: Tailored mechanical packaging designed to protect internal electronics and maintain proper thermal characteristics.
-- Optical alignment: Dedicated front assembly ensuring appropriate emission focus and minimal stray radiation.
+* Optoelectronic core: UV emission architecture designed for target functional inspection and identification.
+* Compact form factor: Lightweight, portable construction optimized for hand-held field operation.
+* Custom enclosure: Tailored mechanical packaging designed to protect internal electronics and maintain proper thermal characteristics.
+* Optical alignment: Dedicated front assembly ensuring appropriate emission focus and minimal stray radiation.
 
 ## Industrial and Mechanical Design
 
@@ -21,35 +21,32 @@ Contact to Mechanical Design & 3D Visualization designer: [Aleksandra@miechowicz
 
 ### Illumination Configurations and Side Profile
 
-<p align="center">
-  <img src="UFIdiffrentlightsettings.png" alt="Different Light Settings" width="48%" />
-  <img src="UFIleftside.png" alt="Left Side Profile" width="48%" />
-</p>
+| Different Light Settings | Left Side Profile |
+| :---: | :---: |
+| ![Different Light Settings](./UFIdiffrentlightsettings.png) | ![Left Side Profile](./UFIleftside.png) |
 
 ### Structural Breakdown and Exploded Assembly
 
-<p align="center">
-  <img src="UFIviolettransparent.png" alt="UV Transparent View" width="48%" />
-  <img src="blowupUFI.png" alt="Exploded Assembly View" width="48%" />
-</p>
+| UV Transparent View | Exploded Assembly View |
+| :---: | :---: |
+| ![UV Transparent View](./UFIviolettransparent.png) | ![Exploded Assembly View](./blowupUFI.png) |
 
 ### Isometric and Perspective Renders
 
-<p align="center">
-  <img src="ufi3.png" alt="Perspective Render 1" width="48%" />
-  <img src="ufi4.png" alt="Perspective Render 2" width="48%" />
-</p>
+| Perspective Render 1 | Perspective Render 2 |
+| :---: | :---: |
+| ![Perspective Render 1](./ufi3.png) | ![Perspective Render 2](./ufi4.png) |
 
 ## Project Structure
 
-- UFIdiffrentlightsettings.png: Lighting and emission state visualization.
-- UFIleftside.png: Lateral enclosure perspective view.
-- UFIviolettransparent.png: Material transparency and ray visualization.
-- blowupUFI.png: Exploded CAD view detailing individual enclosure components.
-- ufi3.png: Perspective isometric rendering of the assembled device.
-- ufi4.png: Secondary operational rendering.
+* ./UFIdiffrentlightsettings.png: Lighting and emission state visualization.
+* ./UFIleftside.png: Lateral enclosure perspective view.
+* ./UFIviolettransparent.png: Material transparency and ray visualization.
+* ./blowupUFI.png: Exploded CAD view detailing individual enclosure components.
+* ./ufi3.png: Perspective isometric rendering of the assembled device.
+* ./ufi4.png: Secondary operational rendering.
 
 ## Credits and Contact
 
-- System architecture and electronics: Sidowsky
-- Mechanical design and 3D visualization: Aleksandra Miechowicz (Aleksandra@miechowicz.pl)
+* System architecture and electronics: Sidowsky
+* Mechanical design and 3D visualization: Aleksandra Miechowicz ([Aleksandra@miechowicz.pl](mailto:Aleksandra@miechowicz.pl))
