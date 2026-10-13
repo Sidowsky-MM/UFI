@@ -13,40 +13,43 @@ The UFI (UV Functional Identification System) is an engineered, lightweight opto
 
 ## Industrial and Mechanical Design
 
-The mechanical enclosure and visual marketing assets were designed and developed by Aleksandra Miechowicz. The mechanical design balances compact dimensions, structural rigidity, and assembly ergonomics.
+The mechanical enclosure and visual marketing assets were designed and developed by Aleksandra Miechowicz[cite: 2, 3]. The mechanical design balances compact dimensions, structural rigidity, and assembly ergonomics[cite: 3].
 
-Contact to Mechanical Design & 3D Visualization designer: [Aleksandra@miechowicz.pl](mailto:Aleksandra@miechowicz.pl)
+Contact to Mechanical Design & 3D Visualization designer: [Aleksandra@miechowicz.pl](mailto:Aleksandra@miechowicz.pl)[cite: 2, 3]
 
 ## CAD Visualizations and Renderings
 
 ### Illumination Configurations and Side Profile
 
-| Different Light Settings | Left Side Profile |
-| :---: | :---: |
-| ![Different Light Settings](./UFIdiffrentlightsettings.png) | ![Left Side Profile](./UFIleftside.png) |
+<p align="center">
+  <img src="3D-Visualization/UFIdiffrentlightsettings.png" alt="Different Light Settings" width="48%" />
+  <img src="3D-Visualization/UFIleftside.png" alt="Left Side Profile" width="48%" />
+</p>
 
 ### Structural Breakdown and Exploded Assembly
 
-| UV Transparent View | Exploded Assembly View |
-| :---: | :---: |
-| ![UV Transparent View](./UFIviolettransparent.png) | ![Exploded Assembly View](./blowupUFI.png) |
+<p align="center">
+  <img src="3D-Visualization/UFIviolettransparent.png" alt="UV Transparent View" width="48%" />
+  <img src="3D-Visualization/blowupUFI.png" alt="Exploded Assembly View" width="48%" />
+</p>
 
 ### Isometric and Perspective Renders
 
-| Perspective Render 1 | Perspective Render 2 |
-| :---: | :---: |
-| ![Perspective Render 1](./ufi3.png) | ![Perspective Render 2](./ufi4.png) |
+<p align="center">
+  <img src="3D-Visualization/ufi3.png" alt="Perspective Render 1" width="48%" />
+  <img src="3D-Visualization/ufi4.png" alt="Perspective Render 2" width="48%" />
+</p>
 
 ## Project Structure
 
-* ./UFIdiffrentlightsettings.png: Lighting and emission state visualization.
-* ./UFIleftside.png: Lateral enclosure perspective view.
-* ./UFIviolettransparent.png: Material transparency and ray visualization.
-* ./blowupUFI.png: Exploded CAD view detailing individual enclosure components.
-* ./ufi3.png: Perspective isometric rendering of the assembled device.
-* ./ufi4.png: Secondary operational rendering.
+* 3D-Visualization/UFIdiffrentlightsettings.png: Lighting and emission state visualization.
+* 3D-Visualization/UFIleftside.png: Lateral enclosure perspective view.
+* 3D-Visualization/UFIviolettransparent.png: Material transparency and ray visualization.
+* 3D-Visualization/blowupUFI.png: Exploded CAD view detailing individual enclosure components.
+* 3D-Visualization/ufi3.png: Perspective isometric rendering of the assembled device.
+* 3D-Visualization/ufi4.png: Secondary operational rendering.
 
 ## Credits and Contact
 
-* System architecture and electronics: Sidowsky
-* Mechanical design and 3D visualization: Aleksandra Miechowicz ([Aleksandra@miechowicz.pl](mailto:Aleksandra@miechowicz.pl))
+* System architecture and electronics: Sidowsky[cite: 3, 5]
+* Mechanical design and 3D visualization: Aleksandra Miechowicz ([Aleksandra@miechowicz.pl](mailto:Aleksandra@miechowicz.pl))[cite: 2, 3]
