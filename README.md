@@ -40,3 +40,38 @@ Contact to Mechanical Design & 3D Visualization designer: [Aleksandra@miechowicz
 
 <p align="center">
   <img src="3D_Visualization/UFIdiffrentlightsettings.png" alt="Different Light Settings" width="48%" />
+  <img src="3D_Visualization/UFIleftside.png" alt="Left Side Profile" width="48%" />
+</p>
+
+### Structural Breakdown and Exploded Assembly
+
+<p align="center">
+  <img src="3D_Visualization/UFIviolettransparent.png" alt="UV Transparent View" width="48%" />
+  <img src="3D_Visualization/blowupUFI.png" alt="Exploded Assembly View" width="48%" />
+</p>
+
+### Isometric and Perspective Renders
+
+<p align="center">
+  <img src="3D_Visualization/ufi3.png" alt="Perspective Render 1" width="48%" />
+  <img src="3D_Visualization/ufi4.png" alt="Perspective Render 2" width="48%" />
+</p>
+
+## Repository Structure
+
+* Charger_PCB: Schematic and layout files for the USB-C and LIR2450 charging subsystem.
+* CzujnikUV: Top layer UV sensor PCB layout and front-end interface circuitry.
+* MAIN_PCB: Central processing board, alarm circuitry, and logic control.
+* First_prototype/handcomparison.jpg: Ergonomic and scale evaluation in hand.
+* First_prototype/ufiprototype.jpg: Assembled hardware prototype.
+* 3D_Visualization/UFIdiffrentlightsettings.png: Lighting and emission state visualization.
+* 3D_Visualization/UFIleftside.png: Lateral enclosure perspective view.
+* 3D_Visualization/UFIviolettransparent.png: Material transparency and optical path visualization.
+* 3D_Visualization/blowupUFI.png: Exploded CAD view detailing individual assembly components.
+* 3D_Visualization/ufi3.png: Perspective isometric rendering of the assembled device.
+* 3D_Visualization/ufi4.png: Secondary operational rendering.
+
+## Credits and Contact
+
+* System architecture and electronics: Sidowsky
+* Mechanical design and 3D visualization: Aleksandra Miechowicz ([Aleksandra@miechowicz.pl](mailto:Aleksandra@miechowicz.pl))
