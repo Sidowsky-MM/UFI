@@ -1,4 +1,4 @@
-# UFI: UV Functional Identification System - Documentation in progress
+# UFI: UV Functional Identification System
 
 ## Overview
 
@@ -19,6 +19,15 @@ The electronic hardware consists of three interconnected PCBs:
 * Power supply subsystem: Onboard charging circuit for rechargeable LIR2450 coin cells via USB-C interface.
 * Mechanical integration: Custom housing tailored to fit the modular electronics stack, internal interconnects, and sensor geometry.
 
+## Prototype Validation
+
+The physical prototype verifies the physical scale, hand-held ergonomics, and real-world form factor of the device.
+
+<p align="center">
+  <img src="First_prototype/handcomparison.jpg" alt="Handheld Scale Comparison" width="48%" />
+  <img src="First_prototype/ufiprototype.jpg" alt="Physical Prototype Assembly" width="48%" />
+</p>
+
 ## Industrial and Mechanical Design
 
 The mechanical enclosure and visual assets were designed and developed by Aleksandra Miechowicz. The mechanical design balances compact dimensions, structural rigidity, and assembly ergonomics for the three-board stack.
@@ -30,37 +39,4 @@ Contact to Mechanical Design & 3D Visualization designer: [Aleksandra@miechowicz
 ### Illumination Configurations and Side Profile
 
 <p align="center">
-  <img src="3D-Visualization/UFIdiffrentlightsettings.png" alt="Different Light Settings" width="48%" />
-  <img src="3D-Visualization/UFIleftside.png" alt="Left Side Profile" width="48%" />
-</p>
-
-### Structural Breakdown and Exploded Assembly
-
-<p align="center">
-  <img src="3D-Visualization/UFIviolettransparent.png" alt="UV Transparent View" width="48%" />
-  <img src="3D-Visualization/blowupUFI.png" alt="Exploded Assembly View" width="48%" />
-</p>
-
-### Isometric and Perspective Renders
-
-<p align="center">
-  <img src="3D-Visualization/ufi3.png" alt="Perspective Render 1" width="48%" />
-  <img src="3D-Visualization/ufi4.png" alt="Perspective Render 2" width="48%" />
-</p>
-
-## Repository Structure
-
-* Charger_PCB: Schematic and layout files for the USB-C and LIR2450 charging subsystem.
-* CzujnikUV: Top layer UV sensor PCB layout and front-end interface circuitry.
-* MAIN_PCB: Central processing board, alarm circuitry, and logic control.
-* 3D-Visualization/UFIdiffrentlightsettings.png: Lighting and emission state visualization.
-* 3D-Visualization/UFIleftside.png: Lateral enclosure perspective view.
-* 3D-Visualization/UFIviolettransparent.png: Material transparency and optical path visualization.
-* 3D-Visualization/blowupUFI.png: Exploded CAD view detailing individual assembly components.
-* 3D-Visualization/ufi3.png: Perspective isometric rendering of the assembled device.
-* 3D-Visualization/ufi4.png: Secondary operational rendering.
-
-## Credits and Contact
-
-* System architecture and electronics: Sidowsky
-* Mechanical design and 3D visualization: Aleksandra Miechowicz ([Aleksandra@miechowicz.pl](mailto:Aleksandra@miechowicz.pl))
+  <img src="3D_Visualization/UFIdiffrentlightsettings.png" alt="Different Light Settings" width="48%" />
